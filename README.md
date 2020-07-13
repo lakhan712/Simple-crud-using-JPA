@@ -6,16 +6,16 @@ Embedded Apache derby database is truncate all data every time when embedded tom
 
 1. Get Data
 
-<img src="Capture1.JPG">
+<img src="/images/Capture1.JPG">
 
 
 
 2. Update Data
 
-<img src="Capture3.JPG">
+<img src="images/Capture3.JPG">
 
 
 
 1. Delete Data
 
-<img src="Capture4.JPG">
+<img src="images/Capture4.JPG">
